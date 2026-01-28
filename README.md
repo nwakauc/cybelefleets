@@ -6,8 +6,6 @@ Welcome to the Cybele Fleets project Website This application is designed to hel
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -21,28 +19,6 @@ Cybele Fleets offers a comprehensive fleet management system that allows users t
 - Driver management
 - Detailed reporting and analytics
 
-## Installation
-To install cybelefleets, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/cybelefleets.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd cybelefleets
-    ```
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-## Usage
-To start using cybelefleets, run the following command:
-```bash
-npm start
-```
-This will start the application, and you can access it in your web browser at `http://localhost:3000`.
 
 ## Contributing
 We welcome contributions to the cybelefleets project! If you would like to contribute, please follow these steps:
